@@ -3,7 +3,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.starstart-xxww</groupId>
+    <groupId>com.starstart.third</groupId>
     <artifactId>chatgpt</artifactId>
     <version>0.0.1</version>
     <name>chatgpt</name>
@@ -214,7 +214,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>com.plexpt.chatgpt.ConsoleChatGPT</mainClass>
+                            <mainClass>com.starstart.chatgpt.ConsoleChatGPT</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
